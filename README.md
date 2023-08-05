@@ -7,7 +7,7 @@ SoftUni Student | JS Advanced
 Exploring the digital cosmos one code snippet at a time. 🚀 | Tech enthusiast | Balancing design and code, weaving a digital samurai's tale with every pixel and line ⚔️
 
 * 🌍  I'm based in Burgas/Bulgaria
-* ✉️  You can contact me at [mustafa.mst@gmail.com](mailto:mustafa.mst@gmail.com)
+* ✉️  You can contact me at [mustafa.mst98@gmail.com](mailto:mustafa.mst98@gmail.com)
 
 ### Skills
 
