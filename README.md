@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Mustafa
 ===============================================================================================================================
 
-SoftUni Student
+SoftUni Student | JS Advanced
 ---------------
 
 Exploring the digital cosmos one code snippet at a time. 🚀 | Tech enthusiast | Balancing design and code, weaving a digital samurai's tale with every pixel and line ⚔️
