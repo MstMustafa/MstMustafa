@@ -22,11 +22,11 @@ Exploring the digital cosmos one code snippet at a time. 🚀 | Tech enthusiast 
 </p>
 
 
-#### Socials
+### Socials
 
 <p align="left"> <a href="https://www.behance.com/mustafa_mst" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/behance.svg" width="32" height="32" /></a> <a href="https://www.github.com/MstMustafa" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/mustafa-mustafa-3844271a5/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
-#### Badges
+### Badges
 
 <b>My GitHub Stats</b>
 
