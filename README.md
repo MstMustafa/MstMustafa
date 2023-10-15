@@ -10,9 +10,9 @@
 
 <div align="center">
  
- * 🌍  I'm based in Burgas/Bulgaria
+   🌍  I'm based in Burgas/Bulgaria
  
- * ✉️  You can contact me at [mustafa.mst98@gmail.com](mailto:mustafa.mst98@gmail.com)
+   ✉️  You can contact me at [mustafa.mst98@gmail.com](mailto:mustafa.mst98@gmail.com)
  
  </div>
 
