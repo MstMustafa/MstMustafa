@@ -29,8 +29,6 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=javascript,nodejs,html,css,vscode,figma,ps,ai" /><br>
-     <i class="fab fa-mocha"></i>
-    <i class="fab fa-chai"></i>
 </div>
 
 <br/>
