@@ -28,7 +28,9 @@
 <h2 align="center">🚀 Technologies Stack 🚀</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=javascript,nodejs,html,css,vscode,figma,ps,ai" /> <img src="https://user-images.githubusercontent.com/25181517/201476630-f47cfff6-fdee-4ee1-9092-1793b71b1ca3.png" alt="Image Description" style="width: 52px;"><br>
+    <img src="https://skillicons.dev/icons?i=javascript,nodejs,html,css,vscode,figma,ps,ai" /> <img src="https://user-images.githubusercontent.com/25181517/201476630-f47cfff6-fdee-4ee1-9092-1793b71b1ca3.png" alt="Image Description" style="width: 52px;">
+    <img src="https://user-images.githubusercontent.com/25181517/201476472-d2f5f644-cfc9-43e5-96d3-c8f40f18b5cb.png" alt="Chai" style="width: 52px;">
+    <br>
 
 </div>
 
