@@ -29,6 +29,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=javascript,nodejs,html,css,vscode,figma,ps,ai" /><br>
+    <img src="https://user-images.githubusercontent.com/25181517/201476630-f47cfff6-fdee-4ee1-9092-1793b71b1ca3.png" alt="Image Description">
 </div>
 
 <br/>
