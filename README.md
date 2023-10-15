@@ -6,6 +6,8 @@
 
 <h3 align="center">A JavaScript SoftUni Student </h3>
 
+<br/>
+
 <div align="center">Exploring the digital cosmos one code snippet at a time. 🚀 | Tech enthusiast | Balancing design and code, weaving a digital samurai's tale with every pixel and line ⚔️ </div>
 
 
