@@ -49,7 +49,7 @@
   </a>
 </div>
 
-<h2 align="center">🏅 Badges 🏅</h2>
+<h2 align="center">🏅 Stats 🏅</h2>
 
 <b>My GitHub Stats</b>
 
