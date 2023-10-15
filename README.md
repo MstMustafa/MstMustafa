@@ -28,7 +28,7 @@
 <h2 align="center">🚀 Technologies Stack 🚀</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=javascript,nodejs,html,css,vscode,figma,ps,ai" /><br>
+    <img src="https://skillicons.dev/icons?i=javascript,nodejs,html,css,vscode,figma,ps,ai,mocha,chai" /><br>
 </div>
 
 <br/>
