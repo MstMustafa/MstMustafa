@@ -46,7 +46,7 @@
   </a>
 </div>
 
-### Badges
+<h2 align="center">🚀 Badges 🚀</h2>
 
 <b>My GitHub Stats</b>
 
