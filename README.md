@@ -1,32 +1,6 @@
-
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Animated Text</title>
-<style>
-  @keyframes bounce {
-    0%, 100% {
-      transform: translateY(0);
-    }
-    50% {
-      transform: translateY(-10px);
-    }
-  }
-
-  .animated-text {
-    animation: bounce 2s infinite;
-  }
-</style>
-</head>
-<body>
-  <h1 align="center" class="animated-text">
-      <img src="https://readme-typing-svg.herokuapp.com/?font=Pacifico&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Mustafa!;&color=FFFF00&background=000000" />
-  </h1>
-</body>
-</html>
-
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Pacifico&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Mustafa!;&color=FFFF00&background=000000" />
+</h1>
 
 
 
