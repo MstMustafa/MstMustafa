@@ -17,7 +17,7 @@
 
 
  
-   🌍  I'm based in Burgas/Bulgaria
+   🌍  I'm based in Sofia/Bulgaria
  
    ✉️  You can contact me at [mustafa.mst98@gmail.com](mailto:mustafa.mst98@gmail.com)
  
